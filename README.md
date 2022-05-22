@@ -1,4 +1,4 @@
-# IP-WEEK-6
+# IP-FOOTBALL ANALYSIS
 Assessment
 You have been recruited as a football analyst in a company - Mchezopesa Ltd and tasked to accomplish the task below.
 
