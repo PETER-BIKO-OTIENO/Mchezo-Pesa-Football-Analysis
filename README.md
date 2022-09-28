@@ -1,5 +1,5 @@
-# IP-FOOTBALL ANALYSIS
-Assessment
+# FOOTBALL ANALYSIS
+
 You have been recruited as a football analyst in a company - Mchezopesa Ltd and tasked to accomplish the task below.
 
 A prediction result of a game between team 1 and team 2, based on who's home and who's away, and on whether or not the game is friendly (include rank in your training).
@@ -113,6 +113,3 @@ Compute RMSE
 Create residual plots for your models, and assess their heteroscedasticity using Bartlett’s test
 Perform appropriate regressions on the data including your justification
 Challenge your solution by providing insights on how you can make improvements.
-Dataset
-
-The dataset and glossary to use for this project can be found here. [Link (Links to an external site.)] 
